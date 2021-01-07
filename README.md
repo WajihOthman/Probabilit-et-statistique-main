@@ -5,3 +5,6 @@ TP1 : [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/g
 
 <br><br>
 TP2 : [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/WajihOthman/Probabilit-et-statistique-main/main?filepath=TP2.ipynb)
+
+<br><br>
+RockPaperScissors : [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/WajihOthman/Probabilit-et-statistique-main/main?filepath=RockPaperScissors.ipynb)
